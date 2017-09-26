@@ -1,3 +1,6 @@
+This is not mine, this is Maria Cristina Di Termine's project
+
+
 # Snake game
 **Name:** Maria Cristina Di Termine
 
